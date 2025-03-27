@@ -5,6 +5,7 @@
   <a href="mailto:guilhermeaw.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/Guilherme%20Biancardi#5903"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/GuilhermeBiancardi"><img src="https://img.shields.io/badge/-Facebook-%230866FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@GuilhermeBiancardi"><img src="https://img.shields.io/badge/-Youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://x.com/GuilhermeAw"><img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=GuilhermeBiancardi" alt="Profile View Counter" style="max-width: 10%; height: auto;"/>
