@@ -1,5 +1,7 @@
 # Bem vindo ao meu Perfil no Github (Welcome to My GitHub Profile)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=242938&text=Guilherme%20Biancardi&fontColor=ddd&desc=Amante%20de%20tecnologia%20,%20Robótica%20e%20Impressão%203D&descAlignY=50&fontAlignY=35" width="100%">
+
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-biancardi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:guilhermeaw.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
