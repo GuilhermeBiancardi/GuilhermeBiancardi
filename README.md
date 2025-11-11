@@ -44,7 +44,7 @@ Olá! Meu nome é Guilherme Bruno Marques Biacardi, e sou um apaixonado por tecn
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,javascript,typescript,css,html,cs,sass,nodejs,codepen,docker,linux,postman,bootstrap,aws,regex,discord,bots,gmail,godot,jquery,md,mysql,mint,debian,notion,npm,perl,php,powershell,raspberrypi,stackoverflow,sublime,svg,tensorflow,ubuntu,unity,vscode,windows,arduino,bash,cloudflare,gmail,htmx" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,javascript,typescript,css,html,cs,sass,nodejs,codepen,docker,linux,postman,bootstrap,aws,regex,discord,bots,gmail,godot,jquery,md,mysql,mint,debian,notion,npm,perl,php,powershell,raspberrypi,stackoverflow,sublime,svg,tensorflow,ubuntu,unity,vscode,windows,arduino,bash,cloudflare,gmail,htmx,cypress,gradle,instagram,twitter,kali,less,linkedin,nginx,sketchup" alt="Skills"/>
   </a>
 </div>
 
