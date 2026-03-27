@@ -33,9 +33,9 @@ Olá! Meu nome é Guilherme Bruno Marques Biacardi, e sou um apaixonado por tecn
 
 <div align="center">
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuilhermeBiancardi&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeBiancardi&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| <img src="http://streak-stats.demolab.com/?user=GuilhermeBiancardi&theme=dracula" alt=""/> | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeBiancardi&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
-| <img src="http://streak-stats.demolab.com/?user=GuilhermeBiancardi&theme=dracula" alt=""/> | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuilhermeBiancardi&show_icons=true&theme=dracula"/> |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuilhermeBiancardi&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuilhermeBiancardi&show_icons=true&theme=dracula"/> |
 | ----------- | ----------- |
 
 </div>
