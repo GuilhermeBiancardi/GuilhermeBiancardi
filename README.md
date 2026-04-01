@@ -51,12 +51,4 @@ Olá! Meu nome é Guilherme Bruno Marques Biacardi, e sou um apaixonado por tecn
 
 ---
 
-### Troféus (Trophies)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeBiancardi&row=1&column=6&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
 Thank you for visiting my profile! 🚀
